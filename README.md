@@ -4,7 +4,7 @@ Welcome to my GitHub space!
 <h2>Who am I?</h2>
 I'm Cristian (@cristian-gl-wd).
 
-A front web developer from Spain 🇪🇸 who just want to portray his knowns and practice it to learn.
+A front-end web developer from Spain 🇪🇸 who just want to portray his knowns and practice it to learn.
 
 <h2>What am I interested about?</h2>
 
